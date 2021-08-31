@@ -7,6 +7,6 @@ TAMAÑO DE LETRA 1
 **Negrita**
 *Cursiva*
 
-![foto] {fondo-de-game-of-thrones-en-hd.jpg}
+![foto] (fondo-de-game-of-thrones-en-hd.jpg)
 
 soy claudio molina
